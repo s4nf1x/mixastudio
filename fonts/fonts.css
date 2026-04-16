@@ -1,0 +1,45 @@
+/* Bebas Neue - Thin */
+@font-face {
+  font-family: 'Bebas Neue', sans-serif;
+  src: url('BebasNeue Thin.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Bebas Neue - Light */
+@font-face {
+  font-family: 'Bebas Neue', sans-serif;
+  src: url('BebasNeue Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Bebas Neue - Book */
+@font-face {
+  font-family: 'Bebas Neue', sans-serif;
+  src: url('BebasNeue Book.otf') format('opentype');
+  font-weight: 350;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Bebas Neue - Regular */
+@font-face {
+  font-family: 'Bebas Neue', sans-serif;
+  src: url('BebasNeue Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Bebas Neue - Bold */
+@font-face {
+  font-family: 'Bebas Neue', sans-serif;
+  src: url('BebasNeue Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
